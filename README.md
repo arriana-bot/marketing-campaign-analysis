@@ -6,6 +6,16 @@ This project analyzes 1,000 marketing campaigns across six marketing channels fr
 
 The project combines SQL, Python, machine learning, and Tableau to transform campaign data into actionable business insights and data-driven marketing recommendations.
 
+## Dataset
+
+- **Source:** [DataBrighten – Marketing Campaigns Dataset](https://databrighten.com/datasets/marketing-campaigns/)
+- **Size:** 1,000 marketing campaigns
+- **Time Period:** 2023–2024
+- **License:** CC0 1.0 Universal (Public Domain Dedication)
+- **Data Type:** Synthetic data
+
+The dataset contains simulated marketing campaign information and does not represent actual company performance or real-world campaign results.
+
 ## Business Objectives
 
 - Evaluate marketing performance across channels and campaign objectives.
