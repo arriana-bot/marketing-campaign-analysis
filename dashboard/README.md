@@ -8,6 +8,6 @@ Campaign-level analysis highlighting budget utilization, top-performing campaign
 
 ## Interactive Dashboards
 
-[View the dashboards on Tableau Public]([https://public.tableau.com:9443/views/MarketingCampaignAnalysis_17952179410660/MarketingCampaignPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
+[View the dashboards on Tableau Public](https://public.tableau.com:9443/views/MarketingCampaignAnalysis_17952179410660/MarketingCampaignPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Created using Tableau Public.
